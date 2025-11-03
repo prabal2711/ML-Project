@@ -1,0 +1,2 @@
+The Sleep Health and Lifestyle Prediction project aims to analyze how various lifestyle factors — such as stress level, physical activity, BMI, occupation, and daily habits — affect a person’s sleep health.
+Using a dataset of individuals’ health and lifestyle information, the goal is to predict whether a person is likely to have a sleep disorder (such as Insomnia or Sleep Apnea) based on their daily patterns.
